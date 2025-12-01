@@ -4,6 +4,7 @@ El Observatorio Integrado del Gas Natural es una plataforma diseñada para anali
 Permite estudiar el estado actual del sistema energético, identificar tendencias críticas de regalías, proyectar demanda, evaluar producción agregada por operador y explorar la distribución territorial del consumo y generación de ingresos.
 Este proyecto consolida datos oficiales nacionales mediante procesos ETL en Microsoft Fabric, integrados en un modelo semántico que posteriormente alimenta un dashboard interactivo desarrollado en Power BI.
 
+ACCESO INFORME: https://app.powerbi.com/view?r=eyJrIjoiMmY1YjFhNzAtYTU5OS00MmUxLWE5NTQtZTI0MjJhOGFhMDU2IiwidCI6ImY1OTI1YWQ5LTM0ZjUtNDM2OS1hZTFiLTA5ZDYyODI2NjFmMyJ9
 ________________________________________
 
 
