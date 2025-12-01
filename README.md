@@ -5,6 +5,8 @@ Permite estudiar el estado actual del sistema energético, identificar tendencia
 Este proyecto consolida datos oficiales nacionales mediante procesos ETL en Microsoft Fabric, integrados en un modelo semántico que posteriormente alimenta un dashboard interactivo desarrollado en Power BI.
 
 ACCESO INFORME: https://app.powerbi.com/view?r=eyJrIjoiMmY1YjFhNzAtYTU5OS00MmUxLWE5NTQtZTI0MjJhOGFhMDU2IiwidCI6ImY1OTI1YWQ5LTM0ZjUtNDM2OS1hZTFiLTA5ZDYyODI2NjFmMyJ9
+
+<iframe title="informe-produccion _demanda_regalias_gas-natural" width="1024" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiMmY1YjFhNzAtYTU5OS00MmUxLWE5NTQtZTI0MjJhOGFhMDU2IiwidCI6ImY1OTI1YWQ5LTM0ZjUtNDM2OS1hZTFiLTA5ZDYyODI2NjFmMyJ9" frameborder="0" allowFullScreen="true"></iframe>
 ________________________________________
 
 
